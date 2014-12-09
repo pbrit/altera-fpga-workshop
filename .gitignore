@@ -4,6 +4,7 @@
 *.tis_db_list.ddb 
 *.pti_db_list.ddb 
 *.qws
+*.rpt
 PLLJ_PLLSPE_INFO.txt
 db
 output_files
